@@ -3,7 +3,8 @@
     CATEGORIAS
   </a>
   <a href="?cat=alarme-monitorado" class="list-group-item list-group-item-action">Alarme Monitorado</a>
-  <a href="?cat=portaria" class="list-group-item list-group-item-action">Portaria</a>
+  <a href="?cat=portaria" class="list-group-item list-group-item-action">Portaria Humana</a>
+  <a href="?cat=portaria" class="list-group-item list-group-item-action">Portaria Virtual</a>
   <a href="?cat=rastreamento-veicular" class="list-group-item list-group-item-action">Rastreramento Veíclular</a>
 </div>
 
@@ -41,7 +42,11 @@
 
 
   <div class="list-group-item list-group-item-action" method="post" style="padding: 0;">
-      <div role="main" id="grupovolpato-form-blog-4f85dd3dd4930d861d0f"></div><script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script><script type="text/javascript"> new RDStationForms('grupovolpato-form-blog-4f85dd3dd4930d861d0f', 'null').createForm();</script>
+    <div role="main" id="grupovolpato-form-blog-4f85dd3dd4930d861d0f"></div>
+    <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+    <script type="text/javascript">
+      new RDStationForms('grupovolpato-form-blog-4f85dd3dd4930d861d0f', 'null').createForm();
+    </script>
   </div>
 
 </div>
