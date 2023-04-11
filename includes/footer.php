@@ -13,7 +13,9 @@
 					<div class="widget_nav_menu">
 						<h6 class="footer-top__headings">NAVEGAÇÃO</h6>
 						<ul>
+							<!--
 							<li><a href="https://www.grupovolpato.com">Home</a></li>
+							-->
 							<li><a href="/a-volpato">A Volpato</a></li>
 							<li><a href="https://www.volpato.blog.br">Blog</a></li>
 							<li><a href="https://grupovolpato.pandape.com.br/">Trabalhe Conosco</a></li>
@@ -27,9 +29,12 @@
 						<h6 class="footer-top__headings">SOLUÇÕES</h6>
 						<ul>
 							<li><a href="https://www.volpatorastreamento.com.br">Rastreamento Veicular</a></li>
-							<li><a href="/seguranca-eletronica">Segurança Eletrônica</a></li>
-							<li><a href="https://www.portariavolpato.com.br">Serviços de Portaria</a></li>
-							<li><a href="/projetos-integrados">Projetos Integrados</a></li>
+							<li><a href="seguranca-eletronica">Alarme Monitorado</a></li>
+							<li><a href="https://www.portariavolpato.com.br/presencial">Portaria Humana</a></li>
+							<li><a href="https://www.portariavolpato.com.br/virtual">Portaria Virtual</a></li>
+							<!-- 
+								<li><a href="/projetos-integrados">Projetos Integrados</a></li>
+							-->
 						</ul>
 					</div>
 				</div>
@@ -108,7 +113,6 @@
 <script>
 	// Este evendo é acionado após o carregamento da página
 	$(window).on("load", function(e) {
-
 		//Após a leitura da pagina o evento fadeOut do loader é acionado, esta com delay para ser perceptivo em ambiente fora do servidor.
 		jQuery("#loader").fadeOut("slow");
 	});

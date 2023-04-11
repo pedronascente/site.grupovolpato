@@ -149,7 +149,10 @@
 										<li><a href="seguranca-eletronica">ALARME MONITORADO</a></li>
 										<li><a href="https://www.portariavolpato.com.br/presencial">PORTARIA HUMANA</a></li>
 										<li><a href="https://www.portariavolpato.com.br/virtual">PORTARIA VIRTUAL</a></li>
+										<!-- 
+
 										<li><a href="projetos-integrados">PROJETOS INTEGRADOS</a></li>
+										-->
 									</ul>
 								</li>
 								<li class="list-item"><a href="blog.php">BLOG</a></li>
@@ -170,7 +173,10 @@
 										<li><a href="seguranca-eletronica">ALARME MONITORADO</a></li>
 										<li><a href="https://www.portariavolpato.com.br/presencial">PORTARIA HUMANA</a></li>
 										<li><a href="https://www.portariavolpato.com.br/virtual">PORTARIA VIRTUAL</a></li>
-										<li><a href="projetos-integrados">PROJETOS INTEGRADOS</a></li>
+										<!-- 
+<li><a href="projetos-integrados">PROJETOS INTEGRADOS</a></li>
+
+										-->
 									</ul>
 								</li>
 								<li><a href="blog.php">BLOG</a></li>
@@ -242,10 +248,13 @@
 					<li class="list-item">
 						<a class="drop" data-toggle="collapse" data-parent="#accordion" href="#collapse33">SOLUÇÕES</a>
 						<ul id="collapse33" class="nav dropdown-nav panel-collapse collapse">
-							<li class="list-item"><a class="pl-5" href="https://volpatorastreamento.com.br">RASTREAMENTO VEICULAR</a></li>
-							<li class="list-item"><a class="pl-5" href="/seguranca-eletronica">SEGURANÇA ELETRÔNICA</a></li>
-							<li class="list-item"><a class="pl-5" href="https://portariavolpato.com.br">SERVIÇOS DE PORTARIA</a></li>
-							<li class="list-item"><a class="pl-5" href="/projetos-integrados">PROJETOS INTEGRADOS</a></li>
+							<li><a href="https://www.volpatorastreamento.com.br">RASTREAMENTO VEICULAR</a></li>
+							<li><a href="seguranca-eletronica">ALARME MONITORADO</a></li>
+							<li><a href="https://www.portariavolpato.com.br/presencial">PORTARIA HUMANA</a></li>
+							<li><a href="https://www.portariavolpato.com.br/virtual">PORTARIA VIRTUAL</a></li>
+							<!--  
+								<li class="list-item"><a class="pl-5" href="/projetos-integrados">PROJETOS INTEGRADOS</a></li>
+								-->
 						</ul>
 					</li>
 					<li class="list-item"><a href="blog.php">BLOG</a></li>
