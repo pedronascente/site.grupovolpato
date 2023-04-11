@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assistenciaveicular24h
+Disallow: /rh
+Disallow: /old
+Disallow: /residencial
+Disallow: /empresarial

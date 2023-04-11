@@ -1,0 +1,27 @@
+# CONFIGURAR UTILIZA��O DO HTTPS
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ https://www.grupovolpato.com/$1 [R,L]
+
+RewriteRule ^a-volpato/?$ /a-volpato.php [NC,L]
+RewriteRule ^contato/?$ /contato.php [NC,L]
+RewriteRule ^seguranca-eletronica/?$ /seguranca-eletronica.php [NC,L]
+RewriteRule ^projetos-integrados/?$ /projetos-integrados.php [NC,L]
+RewriteRule ^area-cliente/?$ /area-cliente.php [NC,L]
+RewriteRule ^segunda-via-boleto/?$ /segunda-via-boleto.php [NC,L]
+RewriteRule ^cliente-alarme/?$ /cliente-alarme.php [NC,L]
+RewriteRule ^politica-de-privacidade/?$ /politica-de-privacidade.php [NC,L]
+
+
+#RewriteRule ^alarme-monitorado/?alarme-monitorado.php [NC,L]
+#RewriteRule ^rastreamento-veicular/?rastreamento-veicular.php [NC,L]
+#RewriteRule ^portaria/?$portaria.php [NC,L]
+#RewriteRule ^5-dicas-para-voce-viajar-nesse-final-de-ano/?5-dicas-para-voce-viajar-nesse-final-de-ano.php [NC,L]
+#RewriteRule ^guarita-de-seguranca-quais-as-vantagens/?guarita-de-seguranca-quais-as-vantagens.php [NC,L]
+#RewriteRule ^voce-sabe-como-funciona-a-unidade-volante/?voce-sabe-como-funciona-a-unidade-volante.php [NC,L]
+#RewriteRule ^dicas-de-seguranca-para-o-seu-condominio/?dicas-de-seguranca-para-o-seu-condominio.php [NC,L]
+#RewriteRule ^alarme-de-intrusao-o-sistema-ideal-para-a-seguranca-do-seu-negocio/?alarme-de-intrusao-o-sistema-ideal-para-a-seguranca-do-seu-negocio.php [NC,L]
+
+
+
+
