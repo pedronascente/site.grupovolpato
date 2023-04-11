@@ -206,4 +206,240 @@ $posts_destaques = [
       </p>
 	',
   ],
+
+  [
+    'imagem' => 'quais-sao-os-itens-mais-roubados-no-interior-do-carro.png',
+    'titulo' => 'Quais São Os Itens Mais Roubados no Interior do Carro?',
+    'descricao' => 'Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz …',
+    'data_postagem' => '5 DE ABRIL DE 2022',
+    'link' => '?cat=rastreamento-veicular&post=2',
+    'texto' => '	
+    <p> <img src="public/images/blog/quais-sao-os-itens-mais-roubados-no-interior-do-carro.png" style="width:100%" class="img-fluid" alt="Imagem responsiva"> </p>
+      <p>
+        Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz para os ladrões, 
+        que nem sempre querem o veículo, mas querem objetos valiosos que estão dentro deles. Além disso, geralmente os seguros cobrem apenas o 
+        veículo em si, e não o que você carrega nele, fazendo o prejuízo ser ainda maior. A <a href="https://www.carglass.com.br/">Carglass</a>, 
+        reparadora de vidros automotivos, costuma realizar um levantamento que aponta os itens mais roubados.
+      </p>
+
+      <p>
+        E no mais recente, as
+        bolsas de mulher aparecem no topo da lista dos objetos mais visados, seguida do
+        estepe. Mais da metade das ocorrências (52%) acontece no período noturno,
+        enquanto que os horário da manhã e da tarde dividem a preferência dos bandidos
+        em 24% dos casos. 
+      </p>
+
+      <p>Veja a seguir dicas para evitar que esse imprevisto aconteça:</p>
+
+      <ul class="wp-block-list">
+        <li>Evite deixar objetos de valor dentro do carro</li>
+        <li>Não estacione em locais perigosos</li>
+        <li>Não deixe documentos dentro do carro</li>
+        <li>Lembre de trancar as portas e janelas quando sair do carro.</li>
+      </ul>
+
+      <p>
+        Curiosamente o estudo revela que 35% das pessoas cujos vidros dos carros foram danificados não
+        tiveram nenhum objeto furtado. Segundo Milton Bissoli, executivo da Carglass,
+        isso é reflexo da eficiência cada vez maior dos sistemas de segurança/alarmes
+        dos automóveis, o que dificulta a ação dos marginais.
+      </p>
+
+      <p>
+        Por essa razão, é muito importante ter um sistema de rastreamento veicular, para evitar não
+        somente o roubo ou furto do veículo, mas também o furto de objetos dentro dele!
+        Acesse <a href="https://www.volpatorastreamento.com.br/">https://www.volpatorastreamento.com.br/</a> e garanta
+        mais segurança para seu veículo!
+      </p>
+	',
+  ],
+  [
+    'imagem' => 'quais-sao-os-itens-mais-roubados-no-interior-do-carro.png',
+    'titulo' => 'Quais São Os Itens Mais Roubados no Interior do Carro?',
+    'descricao' => 'Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz …',
+    'data_postagem' => '5 DE ABRIL DE 2022',
+    'link' => '?cat=rastreamento-veicular&post=2',
+    'texto' => '	
+    <p> <img src="public/images/blog/quais-sao-os-itens-mais-roubados-no-interior-do-carro.png" style="width:100%" class="img-fluid" alt="Imagem responsiva"> </p>
+      <p>
+        Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz para os ladrões, 
+        que nem sempre querem o veículo, mas querem objetos valiosos que estão dentro deles. Além disso, geralmente os seguros cobrem apenas o 
+        veículo em si, e não o que você carrega nele, fazendo o prejuízo ser ainda maior. A <a href="https://www.carglass.com.br/">Carglass</a>, 
+        reparadora de vidros automotivos, costuma realizar um levantamento que aponta os itens mais roubados.
+      </p>
+
+      <p>
+        E no mais recente, as
+        bolsas de mulher aparecem no topo da lista dos objetos mais visados, seguida do
+        estepe. Mais da metade das ocorrências (52%) acontece no período noturno,
+        enquanto que os horário da manhã e da tarde dividem a preferência dos bandidos
+        em 24% dos casos. 
+      </p>
+
+      <p>Veja a seguir dicas para evitar que esse imprevisto aconteça:</p>
+
+      <ul class="wp-block-list">
+        <li>Evite deixar objetos de valor dentro do carro</li>
+        <li>Não estacione em locais perigosos</li>
+        <li>Não deixe documentos dentro do carro</li>
+        <li>Lembre de trancar as portas e janelas quando sair do carro.</li>
+      </ul>
+
+      <p>
+        Curiosamente o estudo revela que 35% das pessoas cujos vidros dos carros foram danificados não
+        tiveram nenhum objeto furtado. Segundo Milton Bissoli, executivo da Carglass,
+        isso é reflexo da eficiência cada vez maior dos sistemas de segurança/alarmes
+        dos automóveis, o que dificulta a ação dos marginais.
+      </p>
+
+      <p>
+        Por essa razão, é muito importante ter um sistema de rastreamento veicular, para evitar não
+        somente o roubo ou furto do veículo, mas também o furto de objetos dentro dele!
+        Acesse <a href="https://www.volpatorastreamento.com.br/">https://www.volpatorastreamento.com.br/</a> e garanta
+        mais segurança para seu veículo!
+      </p>
+	',
+  ],
+  [
+    'imagem' => 'quais-sao-os-itens-mais-roubados-no-interior-do-carro.png',
+    'titulo' => 'Quais São Os Itens Mais Roubados no Interior do Carro?',
+    'descricao' => 'Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz …',
+    'data_postagem' => '5 DE ABRIL DE 2022',
+    'link' => '?cat=rastreamento-veicular&post=2',
+    'texto' => '	
+    <p> <img src="public/images/blog/quais-sao-os-itens-mais-roubados-no-interior-do-carro.png" style="width:100%" class="img-fluid" alt="Imagem responsiva"> </p>
+      <p>
+        Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz para os ladrões, 
+        que nem sempre querem o veículo, mas querem objetos valiosos que estão dentro deles. Além disso, geralmente os seguros cobrem apenas o 
+        veículo em si, e não o que você carrega nele, fazendo o prejuízo ser ainda maior. A <a href="https://www.carglass.com.br/">Carglass</a>, 
+        reparadora de vidros automotivos, costuma realizar um levantamento que aponta os itens mais roubados.
+      </p>
+
+      <p>
+        E no mais recente, as
+        bolsas de mulher aparecem no topo da lista dos objetos mais visados, seguida do
+        estepe. Mais da metade das ocorrências (52%) acontece no período noturno,
+        enquanto que os horário da manhã e da tarde dividem a preferência dos bandidos
+        em 24% dos casos. 
+      </p>
+
+      <p>Veja a seguir dicas para evitar que esse imprevisto aconteça:</p>
+
+      <ul class="wp-block-list">
+        <li>Evite deixar objetos de valor dentro do carro</li>
+        <li>Não estacione em locais perigosos</li>
+        <li>Não deixe documentos dentro do carro</li>
+        <li>Lembre de trancar as portas e janelas quando sair do carro.</li>
+      </ul>
+
+      <p>
+        Curiosamente o estudo revela que 35% das pessoas cujos vidros dos carros foram danificados não
+        tiveram nenhum objeto furtado. Segundo Milton Bissoli, executivo da Carglass,
+        isso é reflexo da eficiência cada vez maior dos sistemas de segurança/alarmes
+        dos automóveis, o que dificulta a ação dos marginais.
+      </p>
+
+      <p>
+        Por essa razão, é muito importante ter um sistema de rastreamento veicular, para evitar não
+        somente o roubo ou furto do veículo, mas também o furto de objetos dentro dele!
+        Acesse <a href="https://www.volpatorastreamento.com.br/">https://www.volpatorastreamento.com.br/</a> e garanta
+        mais segurança para seu veículo!
+      </p>
+	',
+  ],
+  [
+    'imagem' => 'quais-sao-os-itens-mais-roubados-no-interior-do-carro.png',
+    'titulo' => 'Quais São Os Itens Mais Roubados no Interior do Carro?',
+    'descricao' => 'Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz …',
+    'data_postagem' => '5 DE ABRIL DE 2022',
+    'link' => '?cat=rastreamento-veicular&post=2',
+    'texto' => '	
+    <p> <img src="public/images/blog/quais-sao-os-itens-mais-roubados-no-interior-do-carro.png" style="width:100%" class="img-fluid" alt="Imagem responsiva"> </p>
+      <p>
+        Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz para os ladrões, 
+        que nem sempre querem o veículo, mas querem objetos valiosos que estão dentro deles. Além disso, geralmente os seguros cobrem apenas o 
+        veículo em si, e não o que você carrega nele, fazendo o prejuízo ser ainda maior. A <a href="https://www.carglass.com.br/">Carglass</a>, 
+        reparadora de vidros automotivos, costuma realizar um levantamento que aponta os itens mais roubados.
+      </p>
+
+      <p>
+        E no mais recente, as
+        bolsas de mulher aparecem no topo da lista dos objetos mais visados, seguida do
+        estepe. Mais da metade das ocorrências (52%) acontece no período noturno,
+        enquanto que os horário da manhã e da tarde dividem a preferência dos bandidos
+        em 24% dos casos. 
+      </p>
+
+      <p>Veja a seguir dicas para evitar que esse imprevisto aconteça:</p>
+
+      <ul class="wp-block-list">
+        <li>Evite deixar objetos de valor dentro do carro</li>
+        <li>Não estacione em locais perigosos</li>
+        <li>Não deixe documentos dentro do carro</li>
+        <li>Lembre de trancar as portas e janelas quando sair do carro.</li>
+      </ul>
+
+      <p>
+        Curiosamente o estudo revela que 35% das pessoas cujos vidros dos carros foram danificados não
+        tiveram nenhum objeto furtado. Segundo Milton Bissoli, executivo da Carglass,
+        isso é reflexo da eficiência cada vez maior dos sistemas de segurança/alarmes
+        dos automóveis, o que dificulta a ação dos marginais.
+      </p>
+
+      <p>
+        Por essa razão, é muito importante ter um sistema de rastreamento veicular, para evitar não
+        somente o roubo ou furto do veículo, mas também o furto de objetos dentro dele!
+        Acesse <a href="https://www.volpatorastreamento.com.br/">https://www.volpatorastreamento.com.br/</a> e garanta
+        mais segurança para seu veículo!
+      </p>
+	',
+  ],
+  [
+    'imagem' => 'quais-sao-os-itens-mais-roubados-no-interior-do-carro.png',
+    'titulo' => 'Quais São Os Itens Mais Roubados no Interior do Carro?',
+    'descricao' => 'Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz …',
+    'data_postagem' => '5 DE ABRIL DE 2022',
+    'link' => '?cat=rastreamento-veicular&post=2',
+    'texto' => '	
+    <p> <img src="public/images/blog/quais-sao-os-itens-mais-roubados-no-interior-do-carro.png" style="width:100%" class="img-fluid" alt="Imagem responsiva"> </p>
+      <p>
+        Você costuma deixar objetos sobre o banco do carro quando estaciona na rua? Saiba que isso é um grande chamariz para os ladrões, 
+        que nem sempre querem o veículo, mas querem objetos valiosos que estão dentro deles. Além disso, geralmente os seguros cobrem apenas o 
+        veículo em si, e não o que você carrega nele, fazendo o prejuízo ser ainda maior. A <a href="https://www.carglass.com.br/">Carglass</a>, 
+        reparadora de vidros automotivos, costuma realizar um levantamento que aponta os itens mais roubados.
+      </p>
+
+      <p>
+        E no mais recente, as
+        bolsas de mulher aparecem no topo da lista dos objetos mais visados, seguida do
+        estepe. Mais da metade das ocorrências (52%) acontece no período noturno,
+        enquanto que os horário da manhã e da tarde dividem a preferência dos bandidos
+        em 24% dos casos. 
+      </p>
+
+      <p>Veja a seguir dicas para evitar que esse imprevisto aconteça:</p>
+
+      <ul class="wp-block-list">
+        <li>Evite deixar objetos de valor dentro do carro</li>
+        <li>Não estacione em locais perigosos</li>
+        <li>Não deixe documentos dentro do carro</li>
+        <li>Lembre de trancar as portas e janelas quando sair do carro.</li>
+      </ul>
+
+      <p>
+        Curiosamente o estudo revela que 35% das pessoas cujos vidros dos carros foram danificados não
+        tiveram nenhum objeto furtado. Segundo Milton Bissoli, executivo da Carglass,
+        isso é reflexo da eficiência cada vez maior dos sistemas de segurança/alarmes
+        dos automóveis, o que dificulta a ação dos marginais.
+      </p>
+
+      <p>
+        Por essa razão, é muito importante ter um sistema de rastreamento veicular, para evitar não
+        somente o roubo ou furto do veículo, mas também o furto de objetos dentro dele!
+        Acesse <a href="https://www.volpatorastreamento.com.br/">https://www.volpatorastreamento.com.br/</a> e garanta
+        mais segurança para seu veículo!
+      </p>
+	',
+  ],
 ];

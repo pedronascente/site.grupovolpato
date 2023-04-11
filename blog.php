@@ -25,6 +25,20 @@ $URL_ATUAL = explode('&', $URL_ATUAL)[0];
 
 
 ?>
+
+
+
+
+
+<style>
+  .titulo-postagem {
+
+
+    font-size: 18px;
+    font-weight: 600;
+    color: #605E5E;
+  }
+</style>
 <div class="main-title">
   <div class="container">
     <h1 class="main-title__primary">Blog</h1>
@@ -50,7 +64,8 @@ $URL_ATUAL = explode('&', $URL_ATUAL)[0];
   <div class="container">
 
     <div class="row ">
-      <div class="col-md-8">
+
+      <div class="col-md-9">
         <?php
         if ($cat && !$post) {
           include_once('blog/pages/' . $cat . '.php');
@@ -59,7 +74,41 @@ $URL_ATUAL = explode('&', $URL_ATUAL)[0];
         } else {
           include_once('blog/posts/posts_destaque.php');
           foreach ($posts_destaques as $k => $destaque) { ?>
-            <div class="panel panel-default">
+            <div class="col-md-4" style="margin-bottom: 20px;">
+              <div class="card">
+                <img src="public/images/blog/<?= $destaque['imagem']; ?>" class="card-img-top" alt="..." width="100%" style="border-radius:10px">
+                <div class="card-body">
+                  <h4 class=" card-title titulo-postagem"><?= $destaque['titulo']; ?></h4>
+                  <p class="titulo-data-postagem"><?= $destaque['data_postagem']; ?></p>
+                  <p class="card-text"><?= $destaque['descricao']; ?></p>
+                  <a href="<?= $destaque['link']; ?>" class="">Ler mais</a>
+                </div>
+              </div>
+            </div>
+        <?php
+          }
+        }
+        ?>
+      </div>
+
+      <div class="col-md-3">
+        <?php include 'blog/barra-lateral.php'; ?>
+      </div>
+    </div>
+</section>
+
+<?php include 'includes/modal.php'; ?>
+<?php include 'includes/footer.php'; ?>
+
+<!--  
+
+
+
+      -->
+<!--   
+
+
+ <div class="panel panel-default">
               <div class="panel-body">
                 <div class="media">
                   <div class="media-left">
@@ -75,16 +124,5 @@ $URL_ATUAL = explode('&', $URL_ATUAL)[0];
                 </div>
               </div>
             </div>
-        <?php
-          }
-        }
-        ?>
-      </div>
-      <div class="col-md-4">
-        <?php include 'blog/barra-lateral.php'; ?>
-      </div>
-    </div>
-</section>
 
-<?php include 'includes/modal.php'; ?>
-<?php include 'includes/footer.php'; ?>
+-->
