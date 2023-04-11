@@ -1,4 +1,4 @@
-<?php include_once __DIR__ . '/includes/header.php'; ?>  
+<?php include_once __DIR__ . '/includes/header.php'; ?>
 <div class="main-title">
     <div class="container">
         <h1 class="main-title__primary">Projetos Integrados</h1>
@@ -21,7 +21,7 @@
         <div class="row margin-bottom-30">
             <div class="col-sm-7">
                 <p>
-                    A Volpato trabalha com as melhores soluções do mercado,  quando o assunto é tecnologia e integração de sistemas de segurança, assim permitindo atender  pequenas, médias e grandes instalações.  Oferecemos soluções que permitem que os sistemas de controle de acesso, CFTV, automação, alarme de intrusão e de incêndio, entre outros, atuem de maneira integrada
+                    A Volpato trabalha com as melhores soluções do mercado, quando o assunto é tecnologia e integração de sistemas de segurança, assim permitindo atender pequenas, médias e grandes instalações. Oferecemos soluções que permitem que os sistemas de controle de acesso, CFTV, automação, alarme de intrusão e de incêndio, entre outros, atuem de maneira integrada
                 </p>
 
                 <p>
@@ -33,7 +33,7 @@
                 </p>
 
             </div><!-- /.col -->
-            <div class="col-sm-5"> 				
+            <div class="col-sm-5">
                 <p>
                     <a href="images/demo/5.jpg">
                         <img alt="placeholder" src="public/images/projetos-integrados.jpg" class="alignnone">
@@ -92,7 +92,7 @@
                                 </p>
                                 <p>
                                     A equipe responsável pela elaboração de nossos projetos, é altamente qualificada e possui experiência e conhecimentos adequados na elaboração de projetos para grandes obras industriais, civis e residenciais.
-                                </p> 
+                                </p>
                             </div>
                         </div>
                     </div> <!-- panel -->
@@ -143,13 +143,17 @@
                     </h3>
 
                     <p>
-                        Preencha o formulário abaixo que em breve um de nossos consultores entrará em contato com você tirar todas suas dúvidas. 
+                        Preencha o formulário abaixo que em breve um de nossos consultores entrará em contato com você tirar todas suas dúvidas.
                     </p>
-                    <div role="main" id="grupovolpato-form-projetosintegrados-d2436ee9c696eeb11204"></div><script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script><script type="text/javascript"> new RDStationForms('grupovolpato-form-projetosintegrados-d2436ee9c696eeb11204', 'null').createForm();</script>
+                    <div role="main" id="grupovolpato-form-projetos-integrados-1aadac49d02b92e3fd67"></div>
+                    <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+                    <script type="text/javascript">
+                        new RDStationForms('grupovolpato-form-projetos-integrados-1aadac49d02b92e3fd67', 'null').createForm();
+                    </script>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<?php include_once __DIR__ . '/includes/modal.php'; ?>  
-<?php include_once __DIR__ . '/includes/footer.php'; ?> 
+<?php include_once __DIR__ . '/includes/modal.php'; ?>
+<?php include_once __DIR__ . '/includes/footer.php'; ?>

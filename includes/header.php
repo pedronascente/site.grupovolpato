@@ -149,7 +149,7 @@
 										<li><a href="seguranca-eletronica">ALARME MONITORADO</a></li>
 										<li><a href="https://www.portariavolpato.com.br/presencial">PORTARIA HUMANA</a></li>
 										<li><a href="https://www.portariavolpato.com.br/virtual">PORTARIA VIRTUAL</a></li>
-										<li><a href="/projetos-integrados">PROJETOS INTEGRADOS</a></li>
+										<li><a href="projetos-integrados">PROJETOS INTEGRADOS</a></li>
 									</ul>
 								</li>
 								<li class="list-item"><a href="blog.php">BLOG</a></li>
@@ -170,7 +170,7 @@
 										<li><a href="seguranca-eletronica">ALARME MONITORADO</a></li>
 										<li><a href="https://www.portariavolpato.com.br/presencial">PORTARIA HUMANA</a></li>
 										<li><a href="https://www.portariavolpato.com.br/virtual">PORTARIA VIRTUAL</a></li>
-										<li><a href="/projetos-integrados">PROJETOS INTEGRADOS</a></li>
+										<li><a href="projetos-integrados">PROJETOS INTEGRADOS</a></li>
 									</ul>
 								</li>
 								<li><a href="blog.php">BLOG</a></li>
