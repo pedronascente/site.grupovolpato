@@ -141,14 +141,15 @@
 
 						<nav class=" bg-volpato collapse hidden-md nav-mobile" id="menu-sm">
 							<ul class="nav">
-								<li class="list-item"><a href="/a-volpato">A VOLPATO</a></li>
+								<li class="list-item"><a href="a-volpato">A VOLPATO</a></li>
 								<li class="list-item">
 									<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">SOLUÇÕES</a>
 									<ul id="collapse3" class="nav dropdown-nav panel-collapse collapse">
-										<li class="list-item"><a class="pl-5" href="https://volpatorastreamento.com.br">RASTREAMENTO VEICULAR</a></li>
-										<li class="list-item"><a class="pl-5" href="seguranca-eletronica.php">SEGURANÇA ELETRÔNICA</a></li>
-										<li class="list-item"><a class="pl-5" href="https://portariavolpato.com.br">SERVIÇOS DE PORTARIA</a></li>
-										<li class="list-item"><a class="pl-5" href="/projetos-integrados">PROJETOS INTEGRADOS</a></li>
+										<li><a href="https://www.volpatorastreamento.com.br">RASTREAMENTO VEICULAR</a></li>
+										<li><a href="seguranca-eletronica">ALARME MONITORADO</a></li>
+										<li><a href="https://www.portariavolpato.com.br/presencial">PORTARIA HUMANA</a></li>
+										<li><a href="https://www.portariavolpato.com.br/virtual">PORTARIA VIRTUAL</a></li>
+										<li><a href="/projetos-integrados">PROJETOS INTEGRADOS</a></li>
 									</ul>
 								</li>
 								<li class="list-item"><a href="blog.php">BLOG</a></li>
@@ -161,19 +162,20 @@
 					<div class="header__navigation">
 						<nav class="collapse navbar-collapse visible-md" id="cargopress-navbar-collapse">
 							<ul class="main-navigation js-main-nav js-dropdown">
-								<li><a href="/a-volpato">A VOLPATO</a></li>
+								<li><a href="a-volpato">A VOLPATO</a></li>
 								<li class="menu-item-has-children">
 									<a>SOLUÇÕES</a>
 									<ul role="menu" class="sub-menu">
 										<li><a href="https://www.volpatorastreamento.com.br">RASTREAMENTO VEICULAR</a></li>
-										<li><a href="/seguranca-eletronica">SEGURANÇA ELETRÔNICA</a></li>
-										<li><a href="https://www.portariavolpato.com.br">SERVIÇOS DE PORTARIA</a></li>
+										<li><a href="seguranca-eletronica">ALARME MONITORADO</a></li>
+										<li><a href="https://www.portariavolpato.com.br/presencial">PORTARIA HUMANA</a></li>
+										<li><a href="https://www.portariavolpato.com.br/virtual">PORTARIA VIRTUAL</a></li>
 										<li><a href="/projetos-integrados">PROJETOS INTEGRADOS</a></li>
 									</ul>
 								</li>
 								<li><a href="blog.php">BLOG</a></li>
 								<li><a href="https://grupovolpato.pandape.com.br">TRABALHE CONOSCO</a></li>
-								<li><a href="/contato">CONTATO</a></li>
+								<li><a href="contato">CONTATO</a></li>
 							</ul>
 						</nav>
 					</div><!-- /.header__navigation -->
