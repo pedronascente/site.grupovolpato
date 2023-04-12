@@ -1,11 +1,5 @@
-<style>
-  #rd-column-l30ih3ev>div {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-  }
-</style>
-
 <!--[ categoria ]-->
+
 <div class="list-group">
   <a href="javascript:void(0)" class="list-group-item titulo-blog">
     Categorias
@@ -17,6 +11,7 @@
 </div>
 
 <!--[ post rescentes ]-->
+
 <div class="list-group">
   <a href="javascript:void(0)" class="list-group-item  titulo-blog ">
     Posts Destaques
@@ -38,6 +33,7 @@
 </div>
 
 <!--[ formulario blog ]-->
+
 <div class="list-group">
   <a href="javascript:void(0)" class="list-group-item titulo-blog">
     Peça seu orçamento
