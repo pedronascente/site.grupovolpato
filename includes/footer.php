@@ -71,7 +71,7 @@
 	<div class="footer-bottom">
 		<div class="container">
 			<div class="footer-bottom__left">
-				(C) 2017 Todos os direitos reservados - Proibida a reprodução total ou parcial sem autorização prévia do autor.
+				(C) <?php echo date("Y") ?> Todos os direitos reservados - Proibida a reprodução total ou parcial sem autorização prévia do autor.
 			</div>
 		</div>
 	</div>

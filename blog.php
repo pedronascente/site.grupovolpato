@@ -62,9 +62,7 @@ $URL_ATUAL = explode('&', $URL_ATUAL)[0];
 
 <section class="pb-5 margin-bottom-30">
   <div class="container">
-
     <div class="row ">
-
       <div class="col-md-9">
         <?php
         if ($cat && !$post) {
@@ -99,30 +97,3 @@ $URL_ATUAL = explode('&', $URL_ATUAL)[0];
 
 <?php include 'includes/modal.php'; ?>
 <?php include 'includes/footer.php'; ?>
-
-<!--  
-
-
-
-      -->
-<!--   
-
-
- <div class="panel panel-default">
-              <div class="panel-body">
-                <div class="media">
-                  <div class="media-left">
-                    <a href="<?= $destaque['link']; ?>">
-                      <img class="media-object" src="public/images/blog/<?= $destaque['imagem']; ?>" alt="<?= $destaque['titulo']; ?>" width="320px0px">
-                    </a>
-                  </div>
-                  <div class="media-body ">
-                    <h4 class="media-heading titulo-postagem"><?= $destaque['titulo']; ?></h4>
-                    <p><?= $destaque['descricao']; ?></p>
-                    <span class="titulo-data-postagem"><?= $destaque['data_postagem']; ?></span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
--->
