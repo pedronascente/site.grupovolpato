@@ -39,9 +39,7 @@
     Peça seu orçamento
   </a>
   <div class="" method="post">
-    <div role="main" id="grupovolpato-form-blog-4f85dd3dd4930d861d0f">
-
-    </div>
+    <div role="main" id="grupovolpato-form-blog-4f85dd3dd4930d861d0f"></div>
     <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
     <script type="text/javascript">
       new RDStationForms('grupovolpato-form-blog-4f85dd3dd4930d861d0f', 'null').createForm();
