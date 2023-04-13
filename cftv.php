@@ -63,9 +63,10 @@
 					<h3 class="widget-title">ENTRE EM CONTATO CONOSCO</h3>
 					<p>Preencha o formulário abaixo que em breve um de nossos consultores entrará em contato com você tirar todas suas dúvidas.</p>
 					<?php   
-	        			include_once __DIR__ . '/includes/getFormularios.php';
-	        			echo get_formulario('cftv');
-	 				?>			
+	        			//include_once __DIR__ . '/includes/getFormularios.php';
+	        			//echo get_formulario('cftv');
+	 				?>	
+	 				<div role="main" id="grupovolpato-form-alarme-monitorado-aa06f26ffb2da56e3642"></div><script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script><script type="text/javascript"> new RDStationForms('grupovolpato-form-alarme-monitorado-aa06f26ffb2da56e3642', 'null').createForm();</script>		
 				</div>
 			</div>
 		</div>
